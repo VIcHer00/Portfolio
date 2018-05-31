@@ -1465,6 +1465,9 @@ body {
 .cid-qTrnwVm8Jo .card-wrapper {
   height: 100%;
 }
+.cid-qTrnwVm8Jo .card-title {
+  color: #ffffff;
+}
 .cid-qTCNEVDGQk {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1517,4 +1520,7 @@ body {
 }
 .cid-qTro5uiUn2 .card-wrapper {
   height: 100%;
+}
+.cid-qTro5uiUn2 .card-title {
+  color: #ffffff;
 }
