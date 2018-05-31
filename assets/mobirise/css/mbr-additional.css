@@ -1411,7 +1411,6 @@ body {
   background-color: #fff;
 }
 .cid-qTrncZ4rqP .card-box {
-  background-color: #ffffff;
   padding: 2rem;
 }
 .cid-qTrncZ4rqP h4 {
@@ -1423,7 +1422,7 @@ body {
   text-align: left;
 }
 .cid-qTrncZ4rqP .mbr-text {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-qTrncZ4rqP .card-wrapper {
   height: 100%;
@@ -1447,8 +1446,8 @@ body {
   background-image: url("../../../assets/images/mbr-1350x1080.jpg");
 }
 .cid-qTrnwVm8Jo {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 135px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/backgroud-image-for-port-2000x1429.png");
 }
 .cid-qTrnwVm8Jo h4 {
@@ -1491,14 +1490,17 @@ body {
 .cid-qTrnIYuAXr .card-wrapper {
   height: 100%;
 }
+.cid-qTrnIYuAXr .card-title {
+  color: #ffffff;
+}
 .cid-qTCNHd844K {
   padding-top: 60px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/mbr-1350x1080.jpg");
 }
 .cid-qTro5uiUn2 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 120px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/backgroud-image-for-port-2000x1429.png");
 }
 .cid-qTro5uiUn2 h4 {
